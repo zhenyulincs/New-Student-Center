@@ -1,0 +1,17 @@
+.welcome-text {
+    margin-top: 150px;
+}
+
+.get-started-button {
+    /* text-align: center; */
+    /* display: flex;
+    justify-content: center; */
+
+    background-color: #ACACDE !important;
+    border-color: #ACACDE !important;
+    color: black !important;
+}
+
+.get-started-button:hover {
+    background-color: #8c8cbf !important;
+}

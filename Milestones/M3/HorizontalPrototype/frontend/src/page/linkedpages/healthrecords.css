@@ -1,0 +1,57 @@
+#allergies-textbox {
+    height: 100px;
+}
+
+#birthday-input-box {
+    width: 110px;
+}
+
+#age-input-box {
+    width: 65px;
+}
+
+#height-input-box {
+    width: 65px;
+}
+
+#weight-input-box {
+    width: 65px;
+}
+
+#apt-input-box {
+    width: 70px;
+}
+
+#city-input-box {
+    width: 150px;
+}
+
+#state-input-box {
+    width: 125px;
+}
+
+#country-input-box {
+    width: 150px;
+}
+
+#zipcode-input-box {
+    width: 100px;
+}
+
+#submit-button {
+    background-color: #1E4B67;
+    color: #F9F7F5;
+    width: 280px;
+}
+
+.padding-between-inputs {
+    padding: 10px;
+}
+
+.label-padding {
+    padding-left: 10px;
+}
+
+label {
+    padding-right: 10px;
+}

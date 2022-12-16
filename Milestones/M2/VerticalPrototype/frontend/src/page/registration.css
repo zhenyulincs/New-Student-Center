@@ -1,0 +1,17 @@
+#register-button{
+    /* font-family: "Times New Roman", Times, serif; */
+    background-color: #ACACDE;
+    width: 225px;
+}
+
+#register-button:hover {
+    background-color: #8c8cbf;
+}
+
+.link {
+    color: black;
+}
+
+.link:hover {
+    color: blue;
+}

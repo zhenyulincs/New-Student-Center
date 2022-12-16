@@ -1,0 +1,15 @@
+#Result-Container {
+    background-color: #fafadb;
+    margin: auto
+}
+
+#Result-Title {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    margin: 15px;
+}
+
+#Result-Description {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+}

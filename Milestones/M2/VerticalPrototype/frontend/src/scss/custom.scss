@@ -1,0 +1,13 @@
+
+
+@import "../../node_modules/bootstrap/scss/_functions";
+@import "../../node_modules/bootstrap/scss/_variables";
+@import "../../node_modules/bootstrap/scss/_mixins";
+$btn-primary: #ba87d9;
+
+
+$theme-colors: (
+    "primary": #ba87d9,
+    "btn-primary": #ba87d9
+);
+@import "../../node_modules/bootstrap/scss/bootstrap";

@@ -1,0 +1,68 @@
+#formBoxes{
+justify-content: center;
+text-align: center;
+}
+
+#login-head{
+    /* font-family: "Times New Roman", Times, serif; */
+    margin: 16px;
+    padding: 0px;
+    display: block;
+    
+}
+
+#login-button{
+    /* font-family: "Times New Roman", Times, serif; */
+    background-color: #ACACDE;
+    width: 280px;
+}
+
+#login-button:hover {
+    background-color: #8c8cbf;
+}
+
+#login-username{
+    /* font-family: "Times New Roman", Times, serif; */
+    margin: 16px;
+    padding: 0px;
+    display: block;
+    width: 5rem;
+}
+
+#login-password{
+    /* font-family: "Times New Roman", Times, serif; */
+    margin: 16px;
+    padding: 0px;
+    display: block;
+    width: 5rem;
+}
+
+#file-import{
+    /* font-family: "Times New Roman", Times, serif; */
+    border-color: #ACACDE;
+
+}
+#new-user{
+    /* font-family: "Times New Roman", Times, serif; */
+    margin: 16px;
+    padding: 0px;
+    display: block;
+    
+}
+
+#button-outline {
+    border-color: #ACACDE;
+    width: 280px;
+}
+
+#button-outline:hover {
+    background-color: #ACACDE;
+}
+
+.link {
+    color: black;
+}
+
+.link:hover {
+    color: blue;
+}

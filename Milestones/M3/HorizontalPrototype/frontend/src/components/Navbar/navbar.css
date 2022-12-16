@@ -1,0 +1,38 @@
+/* .color-nav{
+    background-color: #7a54db !important;
+} */
+.not-nav {
+  background-color: #84ABB6  !important;
+  border-color: #84ABB6 !important;
+}
+
+
+#navBarColor {
+  background-color: #ACACDE;
+  justify-content: space-between;
+}
+
+#logo-size {
+  width: 90%;
+  height: auto;
+}
+
+#search-border {
+  border-color: black;
+}
+
+#dropdown-custom-2::after {
+  display: none;
+}
+
+#search-button {
+  background-color: whitesmoke;
+}
+
+#search-button:hover {
+  background-color: black;
+}
+ 
+.notification {
+  white-space: nowrap;
+}
