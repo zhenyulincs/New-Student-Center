@@ -1,17 +1,11 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8347654&assignment_repo_type=AssignmentRepo)
-# CSC648-848 Repository
+# New SFSU Student Center
+## Project Background
+More and more students are enrolling in colleges, with a significant number being the first in their families to pursue higher education. As a result, the need for a highly integrated website providing college resources becomes crucial in helping freshmen adapt quickly to college life. While many colleges offer a student center website, they often lack the level of integration required for a seamless experience. For instance, the student center at SFSU fails to integrate with the campus clinic, while the student center at UCSC employs two separate login systems - one for basic school management, such as class enrollment, and another for more advanced processes like tuition payment. Furthermore, several student centers suffer from poor user experience due to security concerns and outdated design.
 
-## Please do the following steps right after this repository is created.
-1. Change the name of the repository. All that needs to be changed is the NN to your respective team number. Team numbers whose value is less than 10, please pad with a 0. Ex team 1 is Team01 team 11 is Team11. Please make sure to also remove the username from the repository as well. Teams with incorrectly name repository will have points deducted from their milestone 1 grades.
-      - Please follow the naming convention assigned by your instructor.
-
-1. PLEASE REMOVE THE USERNAME FROM THE REPOSITORY NAME!!!
-
-2. Add ALL members of your team to this repository. For it to count, they must ACCEPT the invite.
-
-3. Fill out the table below
+To address these issues, this project proposes the development of a modernized student center. This enhanced platform would feature a professor ranking system, allowing students to select the most suitable instructors for their classes. Additionally, our student center would integrate club resources, offering support to non-local students as they quickly assimilate into a new community. A survey conducted among SFSU students revealed that over 50% expressed the desire for a new, highly integrated student center.
 
 
+## Project Members
 | Student Name | Student Email | GitHub Username |
 |    :---:     |     :---:     |     :---:       |
 | Elisa Hsiao-Rou Chih      |       echih@mail.sfsu.edu        |      elisachih           |
@@ -21,11 +15,3 @@
 | Christopher Alan Yee      |       cyee12@mail.sfsu.edu        |      JoJoBuffalo         |
 | Zhenyu Lin      |        zlin4@mail.sfsu.edu       |         1349636970        |
 
-4. Please when ready add your teams application's name and URL or IP to the following table. This will help with grading. Teams are expected to keep this value up to date.
-
-|             Name of the Project               |                            URL of the Project                          | 
-|                    :---:                      |                                 :---:                                  |
-|   New SFSU Student Center  |              http://52.146.22.198/merry_christmas/ <br> Test Email: Test@Test <br> Test Password: 123456789a     |                                                        
- 
-
-## NO code needs to be stored in the root of your repository. You may rename the application folder if you like to your team's application name. But all source code related to your team's application should be stored inside the application folder.
